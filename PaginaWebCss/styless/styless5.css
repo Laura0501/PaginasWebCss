@@ -1,0 +1,160 @@
+
+.main-box{
+    background-color: white;
+}
+
+.header{
+    padding: 0% 0% 0% 0%;
+    width: 100%;
+}
+.header__image{ 
+    margin: 0.1em;
+}
+.header__title{
+    padding: 1% 0% 0% 0%;
+    text-align: center;
+    font-family: 'Cardo', serif;
+    font-size:60px;
+    color:#89BF3B; 
+}
+
+.header__element{
+    padding-top: 2% ;
+    text-align:center ;
+    text-decoration: none;
+    font-weight: bold;
+    font-size:12px ;
+    color: black ;
+}
+
+.header__element__inicio{
+    padding-top: 2% ;
+    text-align:center ;
+    font-weight: bold;
+    font-size:13px ;
+}
+.header__element__inicio{
+    
+    text-decoration: none !important;
+    color: #D7BDAE !important;
+}
+
+ .containerBotones{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+ }
+
+ .containerBotones a{
+    display: inline-block;
+    text-decoration: none;
+    background: #3bcc2b;
+    color: #fff;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 35px;
+ }
+
+ .containerBotones a:hover{
+    background: #fff;
+    color: #3bcc2b;
+}
+
+.containerBotones__wa__txt  {
+    position: absolute;
+    width: 156px;
+    right: 100%;
+    background-color: white;
+    font-size: 12px;
+    color: black;
+    top: 15px;
+    padding: 7px 0 7px 12px;
+    margin-right: 7px;
+    border-radius: 4px;
+}
+
+.footer{
+    font-family: 'Cardo' , serif;
+    padding-left: 3%;
+    color: grey;
+    font-size:medium;
+}
+
+.box-principal-1{
+    height: 10%;
+}
+
+.box-principal-1__image{
+    width: 100%;
+}
+
+.box-principal-1__title{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size:60px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight:bolder;
+    color: white;
+}
+
+.box-principal-1__text{
+    position: absolute;
+    text-align: center;
+    top: 60%;
+    left: 17%;
+    right: 20%;
+    font-size:200%;
+    font-family: 'Cardo', serif;
+    font-weight: 100;
+    color: white;
+
+}
+
+.box-principal-1__text1{
+    position: absolute;
+    text-align: center;
+    top: 65%;
+    left: 17%;
+    right: 20%;
+    font-size:200%;
+    font-family: 'Cardo', serif;
+    font-weight: 100;
+    color: white;
+
+}
+
+.box-principal-2-box1{
+    text-align: center;
+    background-color: #2D2E30;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.box-principal-2-box1__text1{
+    text-align: center;
+    font-size:medium;
+    font-family: 'Rokkitt', serif;
+    font-weight: 100;
+    color: white;
+}
+
+.box-principal-2-box1__text2{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Rokkitt', serif;
+    font-weight: 100;
+    color: white;
+}
+
+.box-principal-2-box1__image{
+    text-align: center;
+}
+
+.box-principal-2-box1__image--1{
+    justify-content: center;
+    width:80%;
+}
